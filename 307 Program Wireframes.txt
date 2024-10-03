@@ -1,0 +1,110 @@
+Supreme Neupane 25/09/24
+Task 1 Scenario 1: 
+Household Chores
+Options Wireframe 1
+
+1.View Chores
+2.Mark Chores as Completed
+3.View Completed Chores
+4.Exit
+
+Enter 1, 2, 3, 4 to continue
+____________________________
+The user can only enter a number between 1-4
+
+Task 1 Scenario 1: 
+Household Chores
+Error Message Wireframe 2
+
+1.View Chores
+2.Mark Chores as Completed
+3.View Completed Chores
+4.Exit
+
+Enter 1, 2, 3, 4 to continue
+___________5________________
+** Invalid input, enter an 
+number from 1-4**
+After a pause, the main menu in wireframe 1 is displayed again.
+
+
+Task 1 Scenario 2: 
+Book Catalog Option Wireframe 1
+ 
+1.Add Book
+2.View Catalog
+3.Search Books
+4.Exit
+
+Enter 1, 2, 3, 4 to continue
+____________________________
+The user can only enter a number between 1-4
+
+Task 1 Scenario 2: 
+Book Catalog Error Wireframe 2
+ 
+1.Add Book
+2.View Catalog
+3.Search Books
+4.Exit
+
+Enter 1, 2, 3, 4 to continue
+___________5________________
+** Invalid input, enter an 
+number from 1-4**
+After a pause, the main menu in wireframe 1 is displayed again.
+
+
+Task 1 Scenario 3:
+Movie Rating Option Wireframe 1
+
+1.Add Movie
+2.View Movie List
+3.Search Movies
+4.Exit
+
+Enter 1, 2, 3, 4 to continue
+____________________________
+The user can only enter a number between 1-4
+Task 1 Scenario 3:
+Movie Rating
+
+1.Add Movie
+2.View Movie List
+3.Search Movies
+4.Exit
+
+Enter 1, 2, 3, 4 to continue
+____________5_______________
+** Invalid input, enter an 
+number from 1-4**
+After a pause, the main menu in wireframe 1 is displayed again.
+
+
+Task 2:
+EVcharge Electric Car Cost
+Main Menu Wireframe 1
+The user should enter these following details:
+Enter the vehicle mileage at the start of the journey __________________
+Enter the number of charging stations visited ______________
+Enter a valid kilowatt(kW) rating for each charging station(7kW, 22kW or 50kW) ____________
+Enter the vehicle mileage at each charging station _____________
+
+
+Dispaly the total number of miles travelled:
+Display the cost(£) of each stage of the journey:
+Display the total cost(£) rounded to two decimal places(2dp):
+The user should input the following details and will get the outputs
+
+EVcharge Electric Car Cost
+Main Menu Error Wireframe 2
+The user should enter these following details:
+Enter the vehicle mileage at the start of the journey ________x_________
+Enter the number of charging stations visited ______________
+Enter a valid kilowatt(kW) rating for each charging station(7kW, 22kW or 50kW) ____________
+Enter the vehicle mileage at each charging station _____________
+
+
+Dispaly the total number of miles travelled:
+Display the cost(£) of each stage of the journey:
+Display the total cost(£) rounded to two decimal places(2dp):
